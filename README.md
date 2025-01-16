@@ -1,2 +1,2 @@
 # Programming-using-c-
-Weekly output 
+Week 1
